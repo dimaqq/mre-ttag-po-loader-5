@@ -1,0 +1,9 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+#: src/App.js:11
+#, javascript-format
+msgid "Use ${ n } tabs"
+msgstr ""
