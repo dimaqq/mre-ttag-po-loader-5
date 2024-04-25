@@ -1,6 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
 import {t} from 'ttag';
+import {addLocale} from "ttag";
+import en from "en.po";
+
+addLocale("en", en);
 
 function App() {
   const n = 42;

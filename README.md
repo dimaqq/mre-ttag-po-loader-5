@@ -1,3 +1,12 @@
+# MRE: CRA + RAR
+
+MRE for https://github.com/ttag-org/ttag-po-loader/issues/5
+
+> Doesn't work with today's create-react-app + react-app-rewired
+
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
