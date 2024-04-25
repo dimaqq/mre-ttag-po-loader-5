@@ -1,11 +1,14 @@
 import logo from './logo.svg';
 import './App.css';
+import {t} from 'ttag';
 
 function App() {
+  const n = 42;
   return (
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <p>{t`Use ${n} tabs`}</p>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
