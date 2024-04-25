@@ -5,5 +5,5 @@ msgstr ""
 
 #: src/App.js:11
 #, javascript-format
-msgid "Use ${ n } tabs"
+msgid "Please, kindly take ${ n } tabs for your perusal."
 msgstr ""
